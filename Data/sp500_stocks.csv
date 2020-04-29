@@ -1,0 +1,506 @@
+Company Name,Ticker,S&P 500 - ETF
+"Agilent Technologies, Inc.",A,YES
+American Airlines Group Inc.,AAL,YES
+"Advance Auto Parts, Inc.",AAP,YES
+Apple Inc.,AAPL,YES
+AbbVie Inc.,ABBV,YES
+AmerisourceBergen Corporation,ABC,YES
+"ABIOMED, Inc.",ABMD,YES
+Abbott Laboratories,ABT,YES
+Accenture PLC,ACN,YES
+Adobe Systems Incorporated,ADBE,YES
+"Analog Devices, Inc.",ADI,YES
+Archer Daniels Midland Company,ADM,YES
+"Automatic Data Processing, Inc.",ADP,YES
+Alliance Data Systems Corporation,ADS,YES
+"Autodesk, Inc.",ADSK,YES
+Ameren Corporation,AEE,YES
+"American Electric Power Company, Inc.",AEP,YES
+The AES Corporation,AES,YES
+Aflac Incorporated,AFL,YES
+Allergan plc,AGN,YES
+"American International Group, Inc.",AIG,YES
+Apartment Investment and Management Company,AIV,YES
+"Assurant, Inc.",AIZ,YES
+Arthur J. Gallagher & Co.,AJG,YES
+"Akamai Technologies, Inc.",AKAM,YES
+Albemarle Corporation,ALB,YES
+"Align Technology, Inc.",ALGN,YES
+"Alaska Air Group, Inc.",ALK,YES
+The Allstate Corporation,ALL,YES
+Allegion PLC,ALLE,YES
+"Alexion Pharmaceuticals, Inc.",ALXN,YES
+"Applied Materials, Inc.",AMAT,YES
+Amcor PLC,AMCR,YES
+"Advanced Micro Devices, Inc.",AMD,YES
+"AMETEK, Inc.",AME,YES
+Amgen Inc.,AMGN,YES
+"Ameriprise Financial, Inc.",AMP,YES
+American Tower Corporation (REIT),AMT,YES
+"Amazon.com, Inc.",AMZN,YES
+"Arista Networks, Inc.",ANET,YES
+"ANSYS, Inc.",ANSS,YES
+"Anthem, Inc.",ANTM,YES
+Aon plc,AON,YES
+A. O. Smith Corporation,AOS,YES
+Apache Corporation,APA,YES
+"Air Products and Chemicals, Inc.",APD,YES
+Amphenol Corporation,APH,YES
+Aptiv PLC,APTV,YES
+"Alexandria Real Estate Equities, Inc.",ARE,YES
+Atmos Energy Corporation,ATO,YES
+"Activision Blizzard, Inc",ATVI,YES
+"AvalonBay Communities, Inc.",AVB,YES
+Broadcom Inc.,AVGO,YES
+Avery Dennison Corporation,AVY,YES
+"American Water Works Company, Inc.",AWK,YES
+American Express Company,AXP,YES
+"AutoZone, Inc.",AZO,YES
+The Boeing Company,BA,YES
+Bank of America Corporation,BAC,YES
+Baxter International Inc.,BAX,YES
+"Best Buy Co., Inc.",BBY,YES
+"Becton, Dickinson and Company",BDX,YES
+"Franklin Resources, Inc.",BEN,YES
+Brown-Forman Corporation,BF.B,YES
+Biogen Inc.,BIIB,YES
+The Bank of New York Mellon Corporation,BK,YES
+Booking Holdings Inc.,BKNG,YES
+Baker Hughes Company,BKR,YES
+"BlackRock, Inc.",BLK,YES
+Ball Corporation,BLL,YES
+Bristol-Myers Squibb Company,BMY,YES
+"Broadridge Financial Solutions, Inc.",BR,YES
+Berkshire Hathaway Inc.,BRK.B,YES
+Boston Scientific Corporation,BSX,YES
+BorgWarner Inc.,BWA,YES
+"Boston Properties, Inc.",BXP,YES
+Citigroup Inc.,C,YES
+Conagra Brands Inc.,CAG,YES
+"Cardinal Health, Inc.",CAH,YES
+CARRIER GLOBAL,CARR,YES
+Caterpillar Inc.,CAT,YES
+Chubb Limited,CB,YES
+"Cboe Global Markets, Inc.",CBOE,YES
+"CBRE Group, Inc.",CBRE,YES
+Crown Castle International Corporation,CCI,YES
+Carnival Corporation,CCL,YES
+"Cadence Design Systems, Inc.",CDNS,YES
+CDW Corporation,CDW,YES
+Celanese Corporation,CE,YES
+Cerner Corporation,CERN,YES
+"CF Industries Holdings, Inc.",CF,YES
+"Citizens Financial Group, Inc.",CFG,YES
+"Church & Dwight Co., Inc.",CHD,YES
+"C.H. Robinson Worldwide, Inc.",CHRW,YES
+"Charter Communications, Inc.",CHTR,YES
+Cigna Corporation,CI,YES
+Cincinnati Financial Corporation,CINF,YES
+Colgate-Palmolive Company,CL,YES
+The Clorox Company,CLX,YES
+Comerica Incorporated,CMA,YES
+Comcast Corporation,CMCSA,YES
+CME Group Inc.,CME,YES
+"Chipotle Mexican Grill, Inc.",CMG,YES
+Cummins Inc.,CMI,YES
+CMS Energy Corporation,CMS,YES
+Centene Corporation,CNC,YES
+"CenterPoint Energy, Inc.",CNP,YES
+Capital One Financial Corporation,COF,YES
+Cabot Oil & Gas Corporation,COG,YES
+"The Cooper Companies, Inc.",COO,YES
+ConocoPhillips,COP,YES
+Costco Wholesale Corporation,COST,YES
+Coty Inc.,COTY,YES
+Campbell Soup Company,CPB,YES
+Capri Holdings Limited,CPRI,YES
+"Copart, Inc.",CPRT,YES
+"salesforce.com, inc.",CRM,YES
+"Cisco Systems, Inc.",CSCO,YES
+CSX Corporation,CSX,YES
+Cintas Corporation,CTAS,YES
+"CenturyLink, Inc.",CTL,YES
+Cognizant Technology Solutions Corporation,CTSH,YES
+"Corteva, Inc.",CTVA,YES
+"Citrix Systems, Inc.",CTXS,YES
+CVS Health Corporation,CVS,YES
+Chevron Corporation,CVX,YES
+Concho Resources Inc.,CXO,YES
+Dominion Energy Inc.,D,YES
+"Delta Air Lines, Inc.",DAL,YES
+"DuPont de Nemours, Inc.",DD,YES
+Deere & Company,DE,YES
+Discover Financial Services,DFS,YES
+Dollar General Corporation,DG,YES
+Quest Diagnostics Incorporated,DGX,YES
+"D.R. Horton, Inc.",DHI,YES
+Danaher Corporation,DHR,YES
+The Walt Disney Company,DIS,YES
+"Discovery, Inc.",DISCA,YES
+"Discovery Communications, Inc.",DISCK,YES
+DISH Network Corporation,DISH,YES
+"Digital Realty Trust, Inc.",DLR,YES
+"Dollar Tree, Inc.",DLTR,YES
+Dover Corporation,DOV,YES
+Dow Inc.,DOW,YES
+Duke Realty Corporation,DRE,YES
+"Darden Restaurants, Inc.",DRI,YES
+DTE Energy Company,DTE,YES
+Duke Energy Corporation,DUK,YES
+DaVita Inc.,DVA,YES
+Devon Energy Corporation,DVN,YES
+DXC Technology Company.,DXC,YES
+Electronic Arts Inc.,EA,YES
+eBay Inc.,EBAY,YES
+Ecolab Inc.,ECL,YES
+Consolidated Edison Inc,ED,YES
+"Equifax, Inc.",EFX,YES
+Edison International,EIX,YES
+The Estee Lauder Companies Inc.,EL,YES
+Eastman Chemical Company,EMN,YES
+Emerson Electric Co.,EMR,YES
+"EOG Resources, Inc.",EOG,YES
+"Equinix, Inc.",EQIX,YES
+Equity Residential,EQR,YES
+Eversource Energy,ES,YES
+"Essex Property Trust, Inc.",ESS,YES
+E*TRADE Financial Corporation,ETFC,YES
+"Eaton Corporation, PLC",ETN,YES
+Entergy Corporation,ETR,YES
+Evergy Inc.,EVRG,YES
+Edwards Lifesciences Corporation,EW,YES
+Exelon Corporation,EXC,YES
+"Expeditors International of Washington, Inc.",EXPD,YES
+"Expedia Group, Inc.",EXPE,YES
+Extra Space Storage Inc,EXR,YES
+Ford Motor Company,F,YES
+"Diamondback Energy, Inc.",FANG,YES
+Fastenal Company,FAST,YES
+"Facebook, Inc.",FB,YES
+"Fortune Brands Home & Security, Inc.",FBHS,YES
+Freeport-McMoRan Inc.,FCX,YES
+FedEx Corporation,FDX,YES
+FirstEnergy Corporation,FE,YES
+"F5 Networks, Inc.",FFIV,YES
+"Fidelity National Information Services, Inc.",FIS,YES
+"Fiserv, Inc.",FISV,YES
+Fifth Third Bancorp,FITB,YES
+"FLIR Systems, Inc.",FLIR,YES
+Flowserve Corporation,FLS,YES
+"FleetCor Technologies, Inc.",FLT,YES
+FMC Corporation,FMC,YES
+Fox Corporation,FOX,YES
+Fox Corporation,FOXA,YES
+First Republic Bank,FRC,YES
+Federal Realty Investment Trust,FRT,YES
+TechnipFMC plc,FTI,YES
+"Fortinet, Inc.",FTNT,YES
+Fortive Corporation,FTV,YES
+General Dynamics Corporation,GD,YES
+General Electric Company,GE,YES
+"Gilead Sciences, Inc.",GILD,YES
+"General Mills, Inc.",GIS,YES
+Globe Life Inc.,GL,YES
+Corning Incorporated,GLW,YES
+General Motors Company,GM,YES
+Alphabet Inc.,GOOG,YES
+Alphabet Inc.,GOOGL,YES
+Genuine Parts Company,GPC,YES
+Global Payments Inc.,GPN,YES
+"The Gap, Inc.",GPS,YES
+Garmin Ltd.,GRMN,YES
+"The Goldman Sachs Group, Inc.",GS,YES
+"W.W. Grainger, Inc.",GWW,YES
+Halliburton Company,HAL,YES
+"Hasbro, Inc.",HAS,YES
+Huntington Bancshares Incorporated,HBAN,YES
+Hanesbrands Inc.,HBI,YES
+"HCA Healthcare, Inc.",HCA,YES
+"The Home Depot, Inc.",HD,YES
+Hess Corporation,HES,YES
+HollyFrontier Corporation,HFC,YES
+"The Hartford Financial Services Group, Inc.",HIG,YES
+"Huntington Ingalls Industries, Inc.",HII,YES
+Hilton Worldwide Holdings Inc.,HLT,YES
+"Harley-Davidson, Inc.",HOG,YES
+"Hologic, Inc.",HOLX,YES
+Honeywell International Inc.,HON,YES
+"Helmerich & Payne, Inc.",HP,YES
+Hewlett Packard Enterprise Company,HPE,YES
+HP Inc.,HPQ,YES
+"H&R Block, Inc.",HRB,YES
+Hormel Foods Corporation,HRL,YES
+"Henry Schein, Inc.",HSIC,YES
+"Host Hotels & Resorts, Inc.",HST,YES
+Hershey Company (The),HSY,YES
+Humana Inc.,HUM,YES
+Arconic Inc.,HWM,YES
+International Business Machines Corporation,IBM,YES
+Intercontinental Exchange Inc.,ICE,YES
+"IDEXX Laboratories, Inc.",IDXX,YES
+IDEX Corporation,IEX,YES
+International Flavors & Fragrances Inc.,IFF,YES
+"Illumina, Inc.",ILMN,YES
+Incyte Corporation,INCY,YES
+IHS Markit Ltd.,INFO,YES
+Intel Corporation,INTC,YES
+Intuit Inc.,INTU,YES
+International Paper Company,IP,YES
+"Interpublic Group of Companies, Inc. (The)",IPG,YES
+IPG Photonics Corporation,IPGP,YES
+IQVIA Holdings Inc.,IQV,YES
+Ingersoll Rand Inc.,IR,YES
+Iron Mountain Incorporated,IRM,YES
+"Intuitive Surgical, Inc.",ISRG,YES
+"Gartner, Inc.",IT,YES
+Illinois Tool Works Inc.,ITW,YES
+Invesco Ltd.,IVZ,YES
+Jacobs Engineering Group Inc.,J,YES
+"J.B. Hunt Transport Services, Inc.",JBHT,YES
+Johnson Controls International plc,JCI,YES
+"Jack Henry & Associates, Inc.",JKHY,YES
+Johnson & Johnson,JNJ,YES
+"Juniper Networks, Inc.",JNPR,YES
+JPMorgan Chase & Co.,JPM,YES
+"Nordstrom, Inc.",JWN,YES
+Kellogg Company,K,YES
+KeyCorp,KEY,YES
+Keysight Technologies Inc.,KEYS,YES
+The Kraft Heinz Company,KHC,YES
+Kimco Realty Corporation,KIM,YES
+KLA Corporation,KLAC,YES
+Kimberly-Clark Corporation,KMB,YES
+"Kinder Morgan, Inc.",KMI,YES
+"CarMax, Inc.",KMX,YES
+Coca-Cola Company (The),KO,YES
+The Kroger Co.,KR,YES
+Kohl's Corporation,KSS,YES
+Kansas City Southern,KSU,YES
+Loews Corporation,L,YES
+"L Brands, Inc.",LB,YES
+"Leidos Holdings, Inc.",LDOS,YES
+"Leggett & Platt, Incorporated",LEG,YES
+Lennar Corporation,LEN,YES
+Laboratory Corporation of America Holdings,LH,YES
+L3Harris Technologies Inc,LHX,YES
+Linde plc,LIN,YES
+LKQ Corporation,LKQ,YES
+Eli Lilly and Company,LLY,YES
+Lockheed Martin Corporation,LMT,YES
+Lincoln National Corporation,LNC,YES
+Alliant Energy Corporation,LNT,YES
+"Lowe's Companies, Inc.",LOW,YES
+Lam Research Corporation,LRCX,YES
+Southwest Airlines Co.,LUV,YES
+Las Vegas Sands Corp.,LVS,YES
+Lamb Weston Holdings Inc.,LW,YES
+LyondellBasell Industries N.V.,LYB,YES
+"Live Nation Entertainment, Inc.",LYV,YES
+Mastercard Incorporated,MA,YES
+"Mid-America Apartment Communities, Inc.",MAA,YES
+"Marriott International, Inc.",MAR,YES
+Masco Corporation,MAS,YES
+McDonald's Corporation,MCD,YES
+Microchip Technology Incorporated,MCHP,YES
+McKesson Corporation,MCK,YES
+Moody's Corporation,MCO,YES
+"Mondelez International, Inc.",MDLZ,YES
+Medtronic PLC,MDT,YES
+"MetLife, Inc.",MET,YES
+MGM Resorts International,MGM,YES
+"Mohawk Industries, Inc.",MHK,YES
+"McCormick & Company, Incorporated",MKC,YES
+MarketAxess Holdings Inc.,MKTX,YES
+"Martin Marietta Materials, Inc.",MLM,YES
+"Marsh & McLennan Companies, Inc.",MMC,YES
+3M Company,MMM,YES
+Monster Beverage Corporation,MNST,YES
+"Altria Group, Inc.",MO,YES
+The Mosaic Company,MOS,YES
+Marathon Petroleum Corporation,MPC,YES
+"Merck & Co., Inc.",MRK,YES
+Marathon Oil Corporation,MRO,YES
+Morgan Stanley,MS,YES
+MSCI Inc,MSCI,YES
+Microsoft Corporation,MSFT,YES
+"Motorola Solutions, Inc.",MSI,YES
+M&T Bank Corporation,MTB,YES
+"Mettler-Toledo International, Inc.",MTD,YES
+"Micron Technology, Inc.",MU,YES
+"Maxim Integrated Products, Inc.",MXIM,YES
+Mylan N.V.,MYL,YES
+Noble Energy Inc.,NBL,YES
+Norwegian Cruise Line Holdings Ltd.,NCLH,YES
+"Nasdaq, Inc.",NDAQ,YES
+"NextEra Energy, Inc.",NEE,YES
+Newmont Corporation,NEM,YES
+"Netflix, Inc.",NFLX,YES
+"NiSource, Inc",NI,YES
+"NIKE, Inc.",NKE,YES
+NortonLifeLock Inc.,NLOK,YES
+Nielsen Holdings Plc,NLSN,YES
+Northrop Grumman Corporation,NOC,YES
+"National Oilwell Varco, Inc.",NOV,YES
+"ServiceNow, Inc.",NOW,YES
+"NRG Energy, Inc.",NRG,YES
+Norfolk Southern Corporation,NSC,YES
+"NetApp, Inc.",NTAP,YES
+Northern Trust Corporation,NTRS,YES
+Nucor Corporation,NUE,YES
+NVIDIA Corporation,NVDA,YES
+"NVR, Inc.",NVR,YES
+Newell Brands Inc.,NWL,YES
+News Corporation,NWS,YES
+News Corporation,NWSA,YES
+Realty Income Corporation,O,YES
+"Old Dominion Freight Line, Inc.",ODFL,YES
+"ONEOK, Inc.",OKE,YES
+Omnicom Group Inc.,OMC,YES
+Oracle Corporation,ORCL,YES
+"O'Reilly Automotive, Inc.",ORLY,YES
+OTIS WORLDWIDE,OTIS,YES
+Occidental Petroleum Corporation,OXY,YES
+"Paycom Software, Inc.",PAYC,YES
+"Paychex, Inc.",PAYX,YES
+"People's United Financial, Inc.",PBCT,YES
+PACCAR Inc.,PCAR,YES
+"Healthpeak Properties, Inc.",PEAK,YES
+Public Service Enterprise Group Incorporated,PEG,YES
+"PepsiCo, Inc.",PEP,YES
+Pfizer Inc.,PFE,YES
+"Principal Financial Group, Inc.",PFG,YES
+Procter & Gamble Company (The),PG,YES
+The Progressive Corporation,PGR,YES
+Parker-Hannifin Corporation,PH,YES
+"PulteGroup, Inc.",PHM,YES
+Packaging Corporation of America,PKG,YES
+"PerkinElmer, Inc.",PKI,YES
+"Prologis, Inc.",PLD,YES
+Philip Morris International Inc.,PM,YES
+"The PNC Financial Services Group, Inc",PNC,YES
+Pentair plc,PNR,YES
+Pinnacle West Capital Corporation,PNW,YES
+"PPG Industries, Inc.",PPG,YES
+PPL Corporation,PPL,YES
+Perrigo Company plc,PRGO,YES
+"Prudential Financial, Inc.",PRU,YES
+Public Storage,PSA,YES
+Phillips 66,PSX,YES
+PVH Corp.,PVH,YES
+"Quanta Services, Inc.",PWR,YES
+Pioneer Natural Resources Company,PXD,YES
+"PayPal Holdings, Inc.",PYPL,YES
+QUALCOMM Incorporated,QCOM,YES
+"Qorvo, Inc.",QRVO,YES
+Royal Caribbean Cruises Ltd.,RCL,YES
+"Everest Re Group, Ltd.",RE,YES
+Regency Centers Corporation,REG,YES
+"Regeneron Pharmaceuticals, Inc.",REGN,YES
+Regions Financial Corporation,RF,YES
+Robert Half International Inc.,RHI,YES
+"Raymond James Financial, Inc.",RJF,YES
+Ralph Lauren Corporation,RL,YES
+ResMed Inc.,RMD,YES
+"Rockwell Automation, Inc.",ROK,YES
+"Rollins, Inc.",ROL,YES
+"Roper Technologies, Inc.",ROP,YES
+"Ross Stores, Inc.",ROST,YES
+"Republic Services, Inc.",RSG,YES
+Raytheon Technologies Corporation,RTX,YES
+SBA Communications Corporation,SBAC,YES
+Starbucks Corporation,SBUX,YES
+The Charles Schwab Corporation,SCHW,YES
+Sealed Air Corporation,SEE,YES
+The Sherwin-Williams Company,SHW,YES
+SVB Financial Group,SIVB,YES
+The J. M. Smucker Company,SJM,YES
+Schlumberger Limited,SLB,YES
+SL Green Realty Corporation,SLG,YES
+Snap-On Incorporated,SNA,YES
+"Synopsys, Inc.",SNPS,YES
+Southern Company (The),SO,YES
+"Simon Property Group, Inc.",SPG,YES
+S&P Global Inc.,SPGI,YES
+Sempra Energy,SRE,YES
+STERIS plc,STE,YES
+State Street Corporation,STT,YES
+Seagate Technology PLC,STX,YES
+Constellation Brands Inc,STZ,YES
+"Stanley Black & Decker, Inc.",SWK,YES
+"Skyworks Solutions, Inc.",SWKS,YES
+Synchrony Financial,SYF,YES
+Stryker Corporation,SYK,YES
+Sysco Corporation,SYY,YES
+AT&T Inc.,T,YES
+Molson Coors Beverage Company,TAP,YES
+Transdigm Group Incorporated,TDG,YES
+TE Connectivity Ltd.,TEL,YES
+Truist Financial Corporation,TFC,YES
+Teleflex Incorporated,TFX,YES
+Target Corporation,TGT,YES
+Tiffany & Co.,TIF,YES
+"The TJX Companies, Inc.",TJX,YES
+Thermo Fisher Scientific Inc.,TMO,YES
+"T-Mobile US, Inc.",TMUS,YES
+"Tapestry, Inc.",TPR,YES
+"T. Rowe Price Group, Inc.",TROW,YES
+"The Travelers Companies, Inc.",TRV,YES
+Tractor Supply Company,TSCO,YES
+"Tyson Foods, Inc.",TSN,YES
+Trane Technologies plc,TT,YES
+"Take-Two Interactive Software, Inc.",TTWO,YES
+"Twitter, Inc.",TWTR,YES
+Texas Instruments Incorporated,TXN,YES
+Textron Inc.,TXT,YES
+"Under Armour, Inc.",UA,YES
+"Under Armour, Inc.",UAA,YES
+United Airlines Holdings Inc,UAL,YES
+"United Dominion Realty Trust, Inc.",UDR,YES
+"Universal Health Services, Inc.",UHS,YES
+Ulta Beauty Inc.,ULTA,YES
+UnitedHealth Group Incorporated,UNH,YES
+Unum Group,UNM,YES
+Union Pacific Corporation,UNP,YES
+"United Parcel Service, Inc.",UPS,YES
+"United Rentals, Inc.",URI,YES
+U.S. Bancorp,USB,YES
+Visa Inc.,V,YES
+"Varian Medical Systems, Inc.",VAR,YES
+V.F. Corporation,VFC,YES
+ViacomCBS Inc.,VIAC,YES
+Valero Energy Corporation,VLO,YES
+Vulcan Materials Company,VMC,YES
+Vornado Realty Trust,VNO,YES
+"Verisk Analytics, Inc.",VRSK,YES
+"VeriSign, Inc.",VRSN,YES
+Vertex Pharmaceuticals Incorporated,VRTX,YES
+"Ventas, Inc.",VTR,YES
+Verizon Communications Inc.,VZ,YES
+Westinghouse Air Brake Technologies Corporation,WAB,YES
+Waters Corporation,WAT,YES
+"Walgreens Boots Alliance, Inc.",WBA,YES
+Western Digital Corporation,WDC,YES
+"WEC Energy Group, Inc.",WEC,YES
+Welltower Inc.,WELL,YES
+Wells Fargo & Company,WFC,YES
+Whirlpool Corporation,WHR,YES
+Willis Towers Watson Public Limited Company,WLTW,YES
+"Waste Management, Inc.",WM,YES
+"Williams Companies, Inc. (The)",WMB,YES
+Walmart Inc.,WMT,YES
+W.R. Berkley Corporation,WRB,YES
+WestRock Company,WRK,YES
+The Western Union Company,WU,YES
+Weyerhaeuser Company,WY,YES
+"Wynn Resorts, Limited",WYNN,YES
+Xcel Energy Inc.,XEL,YES
+"Xilinx, Inc.",XLNX,YES
+Exxon Mobil Corporation,XOM,YES
+DENTSPLY SIRONA Inc.,XRAY,YES
+Xerox Corporation,XRX,YES
+Xylem Inc.,XYL,YES
+"Yum! Brands, Inc.",YUM,YES
+"Zimmer Biomet Holdings, Inc.",ZBH,YES
+Zebra Technologies Corporation,ZBRA,YES
+"Zions Bancorporation, N.A.",ZION,YES
+Zoetis Inc.,ZTS,YES
