@@ -2,7 +2,7 @@
 ## Welcome to TopTick! Your dashboard for daily discovery of tradable equities.
 ---
 ## About TopTick:
-TopTick is a comprehensive guide for investors of all kinds. We scrape the market for the best relatively unknown equities that are primed for steady and safe growth. We have assigned the housing markets and the RIET stocks to demonstrate the the dashboard. 
+TopTick is a comprehensive guide for investors of all kinds. We scrape the market for the best relatively unknown equities that are primed for steady and safe growth. We have assigned the housing markets and the RIET stocks to demonstrate the the dashboard. With this demonstration, we can help you decide if investing in the housing market stocks versus buying a single family home accross nation. We will also reduce on which state is best suited to purchase a house.
 
 ## What you will find on TopTick
 Our goal in creating this dashboard, is to demostrate the RIET stocks and compare it with the housing market. Also it can aid in the discovery of solid stocks that many investors may have not heard of. To fulfill this goal, no stock that appears here will have a market cap larger than $25 billion. Similarly, our focus is specifically on solid companies, therefore, no ETF's or trusts will be included.
@@ -20,7 +20,7 @@ Daily percentage change, the calculation of how much return a certain asset sees
 The standard deviation of an equity is on way to measure how volitile that asset is. By tracking how often the equity exceeds its typical price bounds, you can tell whether or not that asset is likely to follow its current trend or see large fluctuations on any given day.
 
 ### Beta
-For this tool, we will measure the beta against the S&P 500. An equities beta shows the volatility measured against the market as a whole. In this case a beta close to one is a stock that, on average, will see gains when the S&P 500 see's gains, and vice versa.
+For this tool, we will measure the beta against the S&P 500. An equities beta shows the volatility measured against the market as a whole. In this case a beta close to one is a stock that, on average, will see gains when the S&P 500 see's gains, and vice versa. 
 
 ### Sharpe Ratio
 The sharpe ratio will determine the return of the investment versus the risk factor of the asset. The greater the value in the sharpes ratio the more attractive the risk adjusted return.
