@@ -2,7 +2,7 @@
 ## Welcome to TopTick! Your dashboard for daily discovery of tradable equities.
 ---
 ## About TopTick:
-TopTick is a comprehensive guide for investors of all kinds. We scrape the market for the best relatively unknown equities that are primed for steady and safe growth. We have assigned the housing markets and the RIR
+TopTick is a comprehensive guide for investors of all kinds. We scrape the market for the best relatively unknown equities that are primed for steady and safe growth. We have assigned the housing markets and the RIET stocks to demonstrate the the dashboard. 
 
 ## What you will find on TopTick
 Our goal in creating this dashboard, is to demostrate the RIET stocks and compare it with the housing market. Also it can aid in the discovery of solid stocks that many investors may have not heard of. To fulfill this goal, no stock that appears here will have a market cap larger than $25 billion. Similarly, our focus is specifically on solid companies, therefore, no ETF's or trusts will be included.
