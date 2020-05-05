@@ -7,7 +7,7 @@ TopTick is a comprehensive guide for investors of all kinds. We scrape the marke
 ## What you will find on TopTick
 Our goal in creating this dashboard, is to demostrate the RIET stocks and compare it with the housing market. Also it can aid in the discovery of solid stocks that many investors may have not heard of. To fulfill this goal, no stock that appears here will have a market cap larger than $25 billion. Similarly, our focus is specifically on solid companies, therefore, no ETF's or trusts will be included.
 
-Our daily top 5 buy's are stocks that meet all of our criteria for a good, investable asset.
+Our daily top 5 buy's are stocks that meet all of our criteria folr a good, investable asset.
 
 Monte Carlo simulator. Based on our analysis of our top 5 buy's, our Monte Carlo simulation will give investors an even deeper look into the potential future earnings of a portfolio with our picks in them, weighted as you so choose.
 
@@ -24,6 +24,15 @@ For this tool, we will measure the beta against the S&P 500. An equities beta sh
 
 ### Sharpe Ratio
 The sharpe ratio will determine the return of the investment versus the risk factor of the asset. The greater the value in the sharpes ratio the more attractive the risk adjusted return.
+
+### Top 5 of the REIT stocks
+In this section, the REIT stocks are compared to the S&P 500. With our smart filters, we have narrowed down the stocks for the day to 5 stocks. With these plots will help the investors to choose a potential stock. The percentage change is measured with the 5 best stocks, as well is with beta values and the top sharpes ratios are displayed. 
+
+### Top 5 State Price Housing
+Here are displayed the housing prices to compare against the REIT stocks. The state housing prices have been filtered to 5 top states to purchase a single family housing unit. The percent change, beta values, and the sharpe ratio is displayed for each top state to help an investor determine risk versus reward. 
+
+### Scatter Map
+Displayed are the top 5 states where the color and size is the average return of the housing prices. 
 
 ---
 ## Disclaimer
